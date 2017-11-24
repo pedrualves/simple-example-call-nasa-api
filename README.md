@@ -1,6 +1,6 @@
 # exemplo-simples-rc
 
-simples exemplo de nodejs
+just a simple exemple nodejs call nasa api 
 
 ## to run
 
