@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedrualves/exemplo-simples-rc.git"
+    "url": "git+https://github.com/pedrualves/simple-example-call-nasa-api.git"
   },
   "keywords": [
     "simple",
