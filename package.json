@@ -1,0 +1,34 @@
+{
+  "name": "exemplo-simples-rc",
+  "version": "1.0.0",
+  "description": "just a simple exemple nodejs call nasa api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrualves/exemplo-simples-rc.git"
+  },
+  "keywords": [
+    "simple",
+    "simples",
+    "exemplo",
+    "example",
+    "node",
+    "nodejs",
+    "api"
+  ],
+  "author": "Pedro Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedrualves/exemplo-simples-rc/issues"
+  },
+  "homepage": "https://github.com/pedrualves/exemplo-simples-rc#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "engines": {
+    "node": ">=9.2.0"
+  }
+}
